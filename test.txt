@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 04EA-7CD4
+
+ Directory of C:\Users\Pronit\Desktop\git basics
+
+02-02-2024  12:24    <DIR>          .
+02-02-2024  12:22    <DIR>          ..
+02-02-2024  12:23                20 hello.py
+02-02-2024  12:24                 0 test.txt
+               2 File(s)             20 bytes
+               2 Dir(s)  214,702,166,016 bytes free
+dsfsdf
